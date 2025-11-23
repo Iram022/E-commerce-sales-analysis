@@ -130,6 +130,5 @@ All visualizations generated using Matplotlib and Seaborn.
 4. Discounts do not significantly influence ratings — product quality drives customer satisfaction more than price cuts.
 5. Actual and discounted prices are almost perfectly correlated, meaning most products receive proportional discounts
 6. Popularity (rating_count) is independent of price or discount. Some cheap products can be very popular, while expensive ones may have fewer reviews.
-7. 
 
 
